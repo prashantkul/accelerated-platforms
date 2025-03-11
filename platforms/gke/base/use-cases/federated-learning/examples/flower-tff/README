@@ -1,0 +1,3 @@
+# Train an image classifier using Flower
+
+![Federated Learning architecture](/platforms/gke/base/use-cases/federated-learning/examples/flower-tff/assets/federated-learning-cross-silo-reference-architecture-placeholder.svg "Federated Learning example architecture")
